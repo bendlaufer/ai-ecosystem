@@ -3,6 +3,7 @@
 This project contains datasets and analysis tools for exploring the AI ecosystem, particularly focusing on models available on HuggingFace.
 
 [Link to dataset](https://huggingface.co/datasets/modelbiome/ai_ecosystem_withmodelcards).
+[Link to full Hugging Face project](https://huggingface.co/modelbiome)
 
 ## Setup
 
