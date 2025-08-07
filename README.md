@@ -1,4 +1,4 @@
-# AI Ecosystem Project
+# Hugging Face Model Ecosystem Repo
 
 This project contains datasets and analysis tools for exploring the AI ecosystem, particularly focusing on models available on HuggingFace.
 
