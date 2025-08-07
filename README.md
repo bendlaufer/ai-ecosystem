@@ -93,4 +93,17 @@ The following packages are installed in the virtual environment:
 
 - The virtual environment is located in the `venv/` directory
 - All dependencies are specified in `requirements.txt`
-- Use the activation script for convenience when starting work on this project 
+- Use the activation script for convenience when starting work on this project
+
+## 
+
+To cite this work, please refer to the following BibTex citation: 
+
+```@misc{githubAiecosystemREADMEmdMain,
+	author = {Benjamin Laufer, Hamidah Oderinwale},
+	title = {ai-ecosystem/{R}{E}{A}{D}{M}{E}.md at main · bendlaufer/ai-ecosystem --- github.com},
+	howpublished = {\url{https://github.com/bendlaufer/ai-ecosystem/blob/main/README.md}},
+	year = {2025},
+	note = {[Accessed 07-08-2025]},
+}
+```
