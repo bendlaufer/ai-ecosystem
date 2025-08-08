@@ -100,8 +100,8 @@ The following packages are installed in the virtual environment:
 To cite this work, please refer to the following BibTex citation: 
 
 ```@misc{githubAiecosystemREADMEmdMain,
-	author = {Benjamin Laufer, Hamidah Oderinwale},
-	title = {ai-ecosystem/{R}{E}{A}{D}{M}{E}.md at main · bendlaufer/ai-ecosystem --- github.com},
+	author = {Benjamin Laufer, Hamidah Oderinwale, Jon Kleinberg},
+	title = {Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging Face},
 	howpublished = {\url{https://github.com/bendlaufer/ai-ecosystem/blob/main/README.md}},
 	year = {2025},
 	note = {[Accessed 07-08-2025]},
