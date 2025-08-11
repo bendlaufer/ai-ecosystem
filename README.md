@@ -1,6 +1,10 @@
-# AI Ecosystem Project
+# Hugging Face Model Ecosystem Project
 
 This project contains datasets and analysis tools for exploring the AI ecosystem, particularly focusing on models available on HuggingFace.
+
+[Link to dataset](https://huggingface.co/datasets/modelbiome/ai_ecosystem_withmodelcards)
+
+[Link to full Hugging Face project](https://huggingface.co/modelbiome)
 
 ## Setup
 
@@ -89,4 +93,17 @@ The following packages are installed in the virtual environment:
 
 - The virtual environment is located in the `venv/` directory
 - All dependencies are specified in `requirements.txt`
-- Use the activation script for convenience when starting work on this project 
+- Use the activation script for convenience when starting work on this project
+
+## 
+
+To cite this work, please refer to the following BibTex citation: 
+
+```@misc{githubAiecosystemREADMEmdMain,
+	author = {Benjamin Laufer, Hamidah Oderinwale, Jon Kleinberg},
+	title = {Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging Face},
+	howpublished = {\url{https://github.com/bendlaufer/ai-ecosystem/blob/main/README.md}},
+	year = {2025},
+	note = {[Accessed 07-08-2025]},
+}
+```
